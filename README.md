@@ -1,16 +1,40 @@
 ## Hi there 👋
+# Hey there! 👋 I'm Jaymon
 
-<!--
-**Jaymon13579/Jaymon13579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** | 💻 **Software Development & AI Enthusiast**
 
-Here are some ideas to get you started:
+I'm a Computer Science student who enjoys building applications, exploring new technologies, and solving real-world problems through software.
+I enjoy participating in hackathons, where I get to collaborate with other developers, experiment with new ideas, and turn concepts into working prototypes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🏆 Hackathon Projects
+
+👕 ItFitS — AI Virtual Try-On
+An AI-assisted fashion application that helps users find suitable clothing through virtual try-on and personalized size recommendations.
+**My Contributions**
+- Integrated datasets to support clothing fit estimation and recommendation features.
+- Worked on data integration for the application's AI-assisted try-on functionality.
+**Tech Stack:** React Native, Expo, TypeScript, Python, FastAPI, Gemini API
+🔗 [View Original Repository](https://github.com/Aloysius8895/ItFitS)
+
+🌱 SecEff — Cloud Security & Sustainability
+A cloud governance dashboard that combines security monitoring, resource optimization, and environmental sustainability.
+**My Contributions**
+- Contributed to the calculation module focusing on reducing carbon-related costs.
+- Assisted with application design and interface improvements.
+**Tech Stack:** JavaScript, Node.js, Express.js, Python, Chart.js, Anthropic API
+🔗 [View Original Repository](https://github.com/Aloysius8895/ChillChill)
+
+🤝 BondB — MyHack 2026
+An AI-powered networking platform designed to identify meaningful connections and potential collaboration opportunities.
+**My Contributions**
+- Improved the application's user interface and overall usability.
+- Implemented additional features to enhance the user experience.
+**Tech Stack:** React, Node.js, Python, FastAPI, Vertex AI, Firebase, Google Cloud
+🔗 [View Original Repository](https://github.com/Eileen00006666/BondB_MyHack2026)
+
+
+## 📫 Connect With Me
+🔗 **GitHub:** [github.com/Jaymon13579](https://github.com/Jaymon13579)
+
+*Always learning, building, and improving.*
