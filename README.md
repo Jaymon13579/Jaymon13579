@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hey there! 👋 I'm Jaymon
+## Hi there 👋 I'm Jaymon
 
 🎓 **Computer Science Student** | 💻 **Software Development & AI Enthusiast**
 
@@ -17,6 +16,7 @@ An AI-assisted fashion application that helps users find suitable clothing throu
 **Tech Stack:** React Native, Expo, TypeScript, Python, FastAPI, Gemini API
 🔗 [View Original Repository](https://github.com/Aloysius8895/ItFitS)
 
+
 🌱 SecEff — Cloud Security & Sustainability
 A cloud governance dashboard that combines security monitoring, resource optimization, and environmental sustainability.
 **My Contributions**
@@ -24,6 +24,7 @@ A cloud governance dashboard that combines security monitoring, resource optimiz
 - Assisted with application design and interface improvements.
 **Tech Stack:** JavaScript, Node.js, Express.js, Python, Chart.js, Anthropic API
 🔗 [View Original Repository](https://github.com/Aloysius8895/ChillChill)
+
 
 🤝 BondB — MyHack 2026
 An AI-powered networking platform designed to identify meaningful connections and potential collaboration opportunities.
