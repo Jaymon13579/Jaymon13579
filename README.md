@@ -3,7 +3,7 @@
 🎓 **Computer Science Student** | 💻 **Software Development & AI Enthusiast**
 
 I'm a Computer Science student who enjoys building applications, exploring new technologies, and solving real-world problems through software.
-I enjoy participating in hackathons, where I get to collaborate with other developers, experiment with new ideas, and turn concepts into working prototypes.
+I enjoy participating in hackathons, where I get to collaborate with other developers, experiment with new ideas, and turn concepts into working prototypes. <br> <br>
 
 
 ## 🏆 Hackathon Projects
